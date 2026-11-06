@@ -53,3 +53,11 @@ Las demos del tema 3 usan `fetch` contra una API pública, así que necesitan co
 |---|---|---|
 | 3.1 | [`fetch` y `async/await`: traer datos y pintarlos](03-dom-y-datos/01-fetch-async-await.md) | [demo](03-dom-y-datos/demos/01-fetch.html) |
 | 3.2 | [Taller: directorio de usuarios](03-dom-y-datos/02-taller-directorio.md) | [punto de partida](03-dom-y-datos/demos/taller-inicio.html) |
+
+### 4. APIs
+
+| # | Lección | Material |
+|---|---|---|
+| 4.1 | Colección de Postman «Clase de APIs» | [colección](04-apis/postman/clase-apis.postman_collection.json) |
+| 4.2 | [Actividad 1: tu primera petición con Node.js (solución)](04-apis/actividad-1/README.md) | [código](04-apis/actividad-1/) |
+| 4.3 | [Actividad 2: un service para la API (solución)](04-apis/actividad-2/README.md) | [código](04-apis/actividad-2/) |
